@@ -39,6 +39,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Pro-Auto-Filter-Bot)
 
+# Deploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMRK-YT%2FPro-Auto-Filter-Bot&envs=API_HASH%2CAPP_ID%2CMASTER_BOT%2CBOT_TOKEN%2CC_ID_START%2CDB_URI%2CG_ID_START%2CJOIN_MAIN_CHANNEL%2CTEXT_MEG_PH%2CUPDATE_CHANNEL%2CUSER_SESSION&API_HASHDesc=Your+API+Hash+From+my.telegram.org+or+%40MT_MyTelegramOrg_Bot&APP_IDDesc=Your+APP+ID+From+my.telegram.org+or+%40MT_MyTelegramOrg_Bot&MASTER_BOTDesc=MASTER_BOT+%3A+Watch+Tutorial+Video%F0%9F%98%81&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&C_ID_STARTDesc=C_ID_START+%3A+Watch+Tutorial+Video%F0%9F%98%81&DB_URIDesc=Your+Mongo+DB+URL+Obtained+From+mongodb.com&G_ID_STARTDesc=G_ID_START+%3A+Watch+Tutorial+Video%F0%9F%98%81&JOIN_MAIN_CHANNELDesc=JOIN_MAIN_CHANNEL+%3A+Watch+Tutorial+Video%F0%9F%98%81&TEXT_MEG_PHDesc=TEXT_MEG_PH+%3A+Watch+Tutorial+Video%F0%9F%98%81&UPDATE_CHANNELDesc=UPDATE_CHANNEL+%3A+Watch+Tutorial+Video%F0%9F%98%81&USER_SESSIONDesc=A+Pyrogram+User+Session+String.+Generated+From+%40MT_UserSession_BoT&MASTER_BOTDefault=Skp_kp&referralCode=RY9_0d)
 
 ## Configs
 
